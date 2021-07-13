@@ -1,0 +1,2 @@
+10:52:26,510  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:20 - ------ Starting -----The client go to About page-----
+10:52:39,998  INFO com.crowdar.bdd.cukes.hooks.BasicHook<strong>{1}</strong>:35 - ------ Ending -----The client go to About page-----
